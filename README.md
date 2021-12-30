@@ -1,46 +1,26 @@
-# Getting Started with Create React App
+# About
+このアプリケーションは、**React Three Fiber**を使用した**Post-processing**の学習結果として作成したものです。<br>
+Post-processingは、**Ripple Effect（波紋効果）** と **Distortion Effect（ねじれ効果）** を実装しました。
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+https://nemutas.github.io/r3f-homunculus/
 
-## Available Scripts
+![スクリーンショット 2021-12-31 043000](https://user-images.githubusercontent.com/46724121/147782679-6a0e1582-f5ca-4ff0-9d69-3dd4b16c20b3.png)
 
-In the project directory, you can run:
+Ripple Effect（波紋効果）
+![1](https://user-images.githubusercontent.com/46724121/147782716-61774a48-2b52-44cd-9dfa-c2d20544d987.png)
 
-### `npm start`
+Distortion Effect（ねじれ効果）
+![スクリーンショット 2021-12-31 043159](https://user-images.githubusercontent.com/46724121/147782752-fbb1cbd8-7fab-4ad5-a601-b4e58095d513.png)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+# Reference
+このアプリケーションは、株式会社ホムンクルスのホームページに使用されているグラフィクスのクローンモデルです。
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+https://homunculus.jp/
 
-### `npm test`
+実装を解説してくださっている方（Yuri Artiukh 氏）がいて、その方の動画で学習した内容を **R3F + TypeScript** でまとめたものが本アプリになります。
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+[Deconstructing homunculus.jp distortion with three.js #11](https://www.youtube.com/watch?v=qmRqgFbNprM&t=3127s)<br>
+[Ripples effect with three.js #13](https://www.youtube.com/watch?v=vWAci72MtME&t=229s)
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+# Detail
+実装の詳細は、Qiitaにまとめいています。
