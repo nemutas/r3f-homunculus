@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/r3f-homunculus/static/css/main.d25ca53e.chunk.css",
-    "main.js": "/r3f-homunculus/static/js/main.10ee9f4a.chunk.js",
-    "main.js.map": "/r3f-homunculus/static/js/main.10ee9f4a.chunk.js.map",
+    "main.js": "/r3f-homunculus/static/js/main.70461454.chunk.js",
+    "main.js.map": "/r3f-homunculus/static/js/main.70461454.chunk.js.map",
     "runtime-main.js": "/r3f-homunculus/static/js/runtime-main.add3a020.js",
     "runtime-main.js.map": "/r3f-homunculus/static/js/runtime-main.add3a020.js.map",
     "static/js/2.264086ac.chunk.js": "/r3f-homunculus/static/js/2.264086ac.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.add3a020.js",
     "static/js/2.264086ac.chunk.js",
     "static/css/main.d25ca53e.chunk.css",
-    "static/js/main.10ee9f4a.chunk.js"
+    "static/js/main.70461454.chunk.js"
   ]
 }
