@@ -2,6 +2,7 @@ import React, { Suspense, useEffect, useMemo, useRef, VFC } from 'react';
 import { ShaderPass } from 'three-stdlib';
 import { useTexture } from '@react-three/drei';
 import { extend, useFrame } from '@react-three/fiber';
+import { publicPath } from '../../utils/file';
 import { RippleRenderer } from './ripple';
 
 extend({ ShaderPass })
@@ -30,7 +31,7 @@ const Ripple: VFC<RippleType> = props => {
 
 	const shaderRef = useRef<ShaderPass>(null)
 
-	const rippleTexture = useTexture('/assets/textures/brush.png')
+	const rippleTexture = useTexture(publicPath('/assets/textures/brush.png'))
 	const effect = useMemo(() => new RippleRenderer(rippleTexture), [rippleTexture])
 
 	const shader: THREE.Shader = useMemo(() => {

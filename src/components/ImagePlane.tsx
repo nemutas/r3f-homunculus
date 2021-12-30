@@ -1,9 +1,10 @@
 import React, { VFC } from 'react';
 import * as THREE from 'three';
 import { Plane, useTexture } from '@react-three/drei';
+import { publicPath } from '../utils/file';
 
 export const ImagePlane: VFC = () => {
-	const path = (name: string) => `/assets/images/${name}.jpg`
+	const path = (name: string) => publicPath(`/assets/images/${name}.jpg`)
 	const textures = useTexture([path('thum1'), path('thum2'), path('thum3')])
 
 	const material = (texture: THREE.Texture) =>
