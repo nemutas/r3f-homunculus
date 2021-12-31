@@ -24,3 +24,5 @@ https://homunculus.jp/
 
 # Detail
 実装の詳細は、Qiitaにまとめいています。
+
+[【React Three Fiber】Post-processing：Ripple Effect（波紋効果）・Distortion Effect（ねじれ効果）の実装](https://qiita.com/nemutas/items/b052af50776a8fcc1593)
