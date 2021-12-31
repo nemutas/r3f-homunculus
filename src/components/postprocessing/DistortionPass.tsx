@@ -74,9 +74,8 @@ void main() {
   uv.y = mix(v_uv.y, 0.5 * length(p) + 0.15, u_progress);
   
   vec4 color = texture2D(tDiffuse, uv);
+  
   gl_FragColor = color;
-
-  // gl_FragColor = vec4(length(p), 0.0, 0.0, 1.0);
-	// gl_FragColor = vec4(uv, 0.0, 1.0);
+  // gl_FragColor = vec4(vec3(length(p)), 1.0);
 }
 `

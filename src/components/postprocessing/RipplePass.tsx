@@ -85,6 +85,5 @@ void main() {
 
   gl_FragColor = color;
   // gl_FragColor = texture2D(u_displacement, v_uv);
-  // gl_FragColor = vec4(v_uv, 0.0, 1.0);
 }
 `
