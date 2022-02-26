@@ -4,13 +4,7 @@ Post-processingは、**Ripple Effect（波紋効果）** と **Distortion Effect
 
 https://nemutas.github.io/r3f-homunculus/
 
-![スクリーンショット 2021-12-31 043000](https://user-images.githubusercontent.com/46724121/147782679-6a0e1582-f5ca-4ff0-9d69-3dd4b16c20b3.png)
-
-Ripple Effect（波紋効果）
-![1](https://user-images.githubusercontent.com/46724121/147782716-61774a48-2b52-44cd-9dfa-c2d20544d987.png)
-
-Distortion Effect（ねじれ効果）
-![スクリーンショット 2021-12-31 043159](https://user-images.githubusercontent.com/46724121/147782752-fbb1cbd8-7fab-4ad5-a601-b4e58095d513.png)
+![homunculus](https://user-images.githubusercontent.com/46724121/148254437-8fff634e-d02c-41e7-acd9-aa143bc281de.gif)
 
 # Reference
 このアプリケーションは、株式会社ホムンクルスのホームページに使用されているグラフィクスのクローンモデルです。
