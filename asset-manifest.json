@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/r3f-homunculus/static/css/main.92589698.chunk.css",
-    "main.js": "/r3f-homunculus/static/js/main.9c411add.chunk.js",
-    "main.js.map": "/r3f-homunculus/static/js/main.9c411add.chunk.js.map",
+    "main.js": "/r3f-homunculus/static/js/main.8bde96f7.chunk.js",
+    "main.js.map": "/r3f-homunculus/static/js/main.8bde96f7.chunk.js.map",
     "runtime-main.js": "/r3f-homunculus/static/js/runtime-main.add3a020.js",
     "runtime-main.js.map": "/r3f-homunculus/static/js/runtime-main.add3a020.js.map",
-    "static/js/2.264086ac.chunk.js": "/r3f-homunculus/static/js/2.264086ac.chunk.js",
-    "static/js/2.264086ac.chunk.js.map": "/r3f-homunculus/static/js/2.264086ac.chunk.js.map",
+    "static/js/2.7d19cb25.chunk.js": "/r3f-homunculus/static/js/2.7d19cb25.chunk.js",
+    "static/js/2.7d19cb25.chunk.js.map": "/r3f-homunculus/static/js/2.7d19cb25.chunk.js.map",
     "static/js/3.c7f2bec2.chunk.js": "/r3f-homunculus/static/js/3.c7f2bec2.chunk.js",
     "static/js/3.c7f2bec2.chunk.js.map": "/r3f-homunculus/static/js/3.c7f2bec2.chunk.js.map",
     "index.html": "/r3f-homunculus/index.html",
     "static/css/main.92589698.chunk.css.map": "/r3f-homunculus/static/css/main.92589698.chunk.css.map",
-    "static/js/2.264086ac.chunk.js.LICENSE.txt": "/r3f-homunculus/static/js/2.264086ac.chunk.js.LICENSE.txt"
+    "static/js/2.7d19cb25.chunk.js.LICENSE.txt": "/r3f-homunculus/static/js/2.7d19cb25.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.add3a020.js",
-    "static/js/2.264086ac.chunk.js",
+    "static/js/2.7d19cb25.chunk.js",
     "static/css/main.92589698.chunk.css",
-    "static/js/main.9c411add.chunk.js"
+    "static/js/main.8bde96f7.chunk.js"
   ]
 }
